@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.js": "/static/js/main.0776e7ab.chunk.js",
+    "main.js.map": "/static/js/main.0776e7ab.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0cfce7ec.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0cfce7ec.js.map",
+    "static/js/2.5bd90021.chunk.js": "/static/js/2.5bd90021.chunk.js",
+    "static/js/2.5bd90021.chunk.js.map": "/static/js/2.5bd90021.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.5bd90021.chunk.js.LICENSE.txt": "/static/js/2.5bd90021.chunk.js.LICENSE.txt",
+    "static/media/analytics.51908103.svg": "/static/media/analytics.51908103.svg",
+    "static/media/avatar.d1e38af9.svg": "/static/media/avatar.d1e38af9.svg",
+    "static/media/campaigns.4cc4851b.svg": "/static/media/campaigns.4cc4851b.svg",
+    "static/media/dashboard.f6a55cee.svg": "/static/media/dashboard.f6a55cee.svg",
+    "static/media/double-arrow.2540f76e.svg": "/static/media/double-arrow.2540f76e.svg",
+    "static/media/fire.b20526fe.svg": "/static/media/fire.b20526fe.svg",
+    "static/media/liveview.1860058b.svg": "/static/media/liveview.1860058b.svg",
+    "static/media/logo.f03df477.svg": "/static/media/logo.f03df477.svg",
+    "static/media/organizations.20800562.svg": "/static/media/organizations.20800562.svg",
+    "static/media/settings.87f65f6e.svg": "/static/media/settings.87f65f6e.svg",
+    "static/media/sites.03a09431.svg": "/static/media/sites.03a09431.svg",
+    "static/media/thumb-up.e569cce5.svg": "/static/media/thumb-up.e569cce5.svg",
+    "static/media/users.b778609d.svg": "/static/media/users.b778609d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0cfce7ec.js",
+    "static/js/2.5bd90021.chunk.js",
+    "static/js/main.0776e7ab.chunk.js"
+  ]
+}
